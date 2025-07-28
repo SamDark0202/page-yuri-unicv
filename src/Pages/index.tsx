@@ -22,8 +22,8 @@ import {
   Mail,
   MapPin
 } from "lucide-react";
-import manausHero from "@/assets/images/manaus-hero.jpg";
-import yuriSampaioImage from "@/assets/images/yuri-sampaio.jpg";
+import manausHero from "@/assets/images/manaus-cidade.png";
+import yuriSampaioImage from "@/assets/images/yuri-perfil.jpg";
 import axios from "axios";
 
 const Index = () => {
